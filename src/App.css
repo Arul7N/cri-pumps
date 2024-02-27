@@ -61,4 +61,24 @@
   background-color: red;
 }
 
+@media (max-width: 700px) {
+  .image-1 {
+    height: 100%;
+  }
+  .image-3 {
+    width: 75%;
+    height: 75%;
+    display: block;
+  }
+  .pump-img {
+    margin-top: -20px;
+    margin-bottom: -20px;
+    height: 35vh;
+  }
+}
+
+@media (max-width: 700px) {
+  
+}
+
 
