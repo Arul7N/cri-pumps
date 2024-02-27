@@ -1,0 +1,64 @@
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css');
+
+.main-body {
+  display: flex;
+  margin: 4px;
+}
+
+.award-logo {
+  width: 1/2;
+}
+
+.image-1 {
+  width: 100%;
+}
+
+.para-head {
+  font-weight: bold;
+}
+
+.para-body, .para-foot {
+  text-align: justify;
+}
+
+.stage-img {
+  margin: 4px;
+  width: full;
+  height: auto;
+  text-align: center;
+}
+
+.image-2 {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.bottom-note {
+  text-align: center;
+}
+
+.pump-img {
+  position: relative;
+  height: 50vh;
+  overflow: hidden;
+}
+
+.image-3 {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 75%;
+  height: 100%;
+}
+
+.line {
+  border: none;
+  margin: 4px;
+  height: 2px;
+  background-color: red;
+}
+
+
